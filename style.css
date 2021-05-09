@@ -1,0 +1,13 @@
+body {
+    background-color: #37474F;
+}
+
+#tela {
+    display: block;
+    position: relative;
+}
+
+.caixa {
+    display: block;
+    position: absolute;
+}
